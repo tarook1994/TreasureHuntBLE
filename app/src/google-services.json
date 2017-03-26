@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "468253052267",
+    "firebase_url": "https://trailprojectguc.firebaseio.com",
+    "project_id": "trailprojectguc",
+    "storage_bucket": "trailprojectguc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468253052267:android:487394fa49be4140",
+        "android_client_info": {
+          "package_name": "example.treasurehunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468253052267-ruqsj7hgcfgrf4osi6b6jtmr3afqn3td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjT6G0kT0yV_6qWSu94KcsD0DDZpxJvXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
